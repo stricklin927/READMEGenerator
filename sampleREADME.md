@@ -3,7 +3,7 @@
   By Jane Doe
   GitHub username: janedoe2020
 
-  ![License](https://img.shields.io/badge/License-MIT License-green.svg)
+  ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
   ## Description
   This is just a demo of the README generator application.
