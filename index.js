@@ -41,9 +41,9 @@ const questions = [
         name: "license",
         message: "Select a License.",
         choices: [
-            "Apache License 2.0",
-            "GNU v3.0 License",
-            "MIT License",
+            "Apache 2.0",
+            "GNU v3.0",
+            "MIT",
             "None"
         ]
     },

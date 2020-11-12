@@ -12,7 +12,7 @@ node index.js
 ```
 
 ## App Demo
-Watch a video demonstration of this application [here](https://........).
+[Click here](https://........) to watch a video demonstration of this application.
 
 ### Answer questions.
 ![License Question](/assets/images/demo1.png)
