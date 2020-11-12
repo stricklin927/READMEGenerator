@@ -14,9 +14,17 @@ node index.js
 ## App Demo
 Watch a video demonstration of this application [here](https://........).
 
+### Answer questions.
 ![License Question](/assets/images/demo1.png)
+
+### Questions completed and README.md file is created.
 ![Questions Completed](/assets/images/demo2.png)
-![sample ReadMe](/assets/images/demo3.png)
+
+### Created README.md file in Visual Studio Code.
+![sample README](/assets/images/demo3.png)
+
+### Deployed view of README.md on GitHub!
+![deployed README](/assets/images/demo4.png)
 
 ## Built with:
 * JavaScript
