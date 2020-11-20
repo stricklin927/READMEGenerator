@@ -18,6 +18,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "email",
+        message: "Email where users can send questions about the app?"
+    },
+    {
+        type: "input",
         name: "title",
         message: "What is the title of your project?"
     },
@@ -72,7 +77,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
             .then(function(data){
-                writeToFile("README.md", generateMarkdown(data));
+                writeToFile("generatedREADME.md", generateMarkdown(data));
     });
 }
 
