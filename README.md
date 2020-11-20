@@ -14,17 +14,14 @@ node index.js
 ## App Demo
 [Click here](https://drive.google.com/file/d/1Yh6uKwo0JH1A8E4JiUeo3vuesYpqCLdt/view) to watch a video demonstration of this application.
 
-### Answer questions.
+### Answer prompted questions.
 ![License Question](/assets/images/demo1.png)
 
-### Questions completed and README.md file is created.
+### Questions completed and generatedREADME.md file is created.
 ![Questions Completed](/assets/images/demo2.png)
 
-### Created README.md file in Visual Studio Code.
-![sample README](/assets/images/demo3.png)
-
-### Deployed view of README.md on GitHub!
-![deployed README](/assets/images/demo4.png)
+### Deployed view of generated README.md file on GitHub!
+![deployed README](/assets/images/demo3.png)
 
 ## Built with:
 * JavaScript
